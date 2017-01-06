@@ -1,0 +1,7 @@
+#Wed Jan 04 11:21:19 CST 2017
+base.0=/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d5086eb35876046a1c5afcf5ad524505bd3621f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be3be9cd049535e6ba6de99741c83bd843b10864/classes.dex
+base.1=/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be3be9cd049535e6ba6de99741c83bd843b10864
+file.0=/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d5086eb35876046a1c5afcf5ad524505bd3621f/classes.dex

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_1df8e14312fdd515761f358b25ca59d14440d612/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/libs/jpush-android-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fad60eea64007823d74948fc6708371dee57fe36">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android-2.1.3_8c3aba984bc17bbe12a3c9fd9ddb60bfd7218814/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_35f840dce214354d331fe3d3d678c3cbce58e557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.0_3033603ce68bceb1db0672a4e559b9b79a9c47da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/libs/eventbus.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9a179701fef5778920c0471563bc1642e5df8217">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/2/eventbus_8d468b49973723bc6b15e4806b69e72e25ecb62f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_94986bdc748ff28ad29a152eba5a69beecb67280/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.87.4/97d167507fcf75bc96d2123af0f3b1b5614ca3b7/realm-android-0.87.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="97d167507fcf75bc96d2123af0f3b1b5614ca3b7">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/realm-android-0.87.4_1f36f39e95d610c68c41f39fa75affba237d2378/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/libs/bcpkix-jdk15on-1.54.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b11bfee99bb11eea344de6e4a07fe89212c55c02">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/2/bcpkix-jdk15on-1.54_7014987cd7cca79d5001a0359ba6a6779f44efed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_e42195ab51386b5fdede4b6157b4ff183299b1f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/libs/mpandroidchartlibrary-2-1-6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3f8beaf2f9b5357717e0b1ef9f6820e517784ea1">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/2/mpandroidchartlibrary-2-1-6_27e75af452a60411b1e80256244461fa83d928ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_b624cd96bdf9dfa039fa8c1e8c90b83e68bff962/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_35f840dce214354d331fe3d3d678c3cbce58e557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_1df8e14312fdd515761f358b25ca59d14440d612/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.zhy/okhttputils/2.6.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/com.zhy-okhttputils-2.6.2_725078f920c117ef4768417ae95599db24964a6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_6946dd648abfa128a1f99e99540604858f7d2450/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.87.4/97d167507fcf75bc96d2123af0f3b1b5614ca3b7/realm-android-0.87.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="97d167507fcf75bc96d2123af0f3b1b5614ca3b7">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/realm-android-0.87.4_1f36f39e95d610c68c41f39fa75affba237d2378/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_74cac6484baaa1a92661bff79964c0b24101e338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_37d911c7c76ed279ecf63df0e84b2a4e64b58b36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/libs/mpandroidchartlibrary-2-1-6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3f8beaf2f9b5357717e0b1ef9f6820e517784ea1">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/2/mpandroidchartlibrary-2-1-6_27e75af452a60411b1e80256244461fa83d928ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.zhy/okhttputils/2.6.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/com.zhy-okhttputils-2.6.2_725078f920c117ef4768417ae95599db24964a6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_f15ed05b32afa3a65daf1dfee8d91a5c477e5410/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/libs/jpush-android-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fad60eea64007823d74948fc6708371dee57fe36">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android-2.1.3_8c3aba984bc17bbe12a3c9fd9ddb60bfd7218814/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5f87bf8b5d02d5d7b690a6a70b4d310549a95b3b">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d5086eb35876046a1c5afcf5ad524505bd3621f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_f15ed05b32afa3a65daf1dfee8d91a5c477e5410/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="410b0d5f2471b6f70ba14efb91d43f3c964faa4e">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be3be9cd049535e6ba6de99741c83bd843b10864/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_0f7b1b0ee078bfa3c4bee106f0d44cf00d6be241/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_ca8de57faea8ea3c5d88b4242e5d7bc937c1acfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-1.3.0_12b73ab9fe699d521ea6774b1fb392ab619ead0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/libs/bcprov-jdk15on-1.54.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1acdedeb89f1d950d67b73d481eb7736df65eedb">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/2/bcprov-jdk15on-1.54_2d15fdab0fe6fa71d76f305cbbd85a7d513ae285/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_69b028994c1e25e4fd7118d2092dfdbfc4c51814/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d668f58b8712b7c12292ccc507fdc92e873af043">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d5086eb35876046a1c5afcf5ad524505bd3621f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_f1ed4e148f4b6fda56e7a2d7c9b1c18aebb78c02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-1.3.0_12b73ab9fe699d521ea6774b1fb392ab619ead0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_0f7b1b0ee078bfa3c4bee106f0d44cf00d6be241/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/libs/eventbus.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9a179701fef5778920c0471563bc1642e5df8217">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/2/eventbus_8d468b49973723bc6b15e4806b69e72e25ecb62f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="698e84e89b920a801c94fdf47366850084336d9e">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be3be9cd049535e6ba6de99741c83bd843b10864/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/libs/bcprov-jdk15on-1.54.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1acdedeb89f1d950d67b73d481eb7736df65eedb">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/2/bcprov-jdk15on-1.54_2d15fdab0fe6fa71d76f305cbbd85a7d513ae285/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.0_3033603ce68bceb1db0672a4e559b9b79a9c47da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/project/RunCloud-master/runCloud/libs/bcpkix-jdk15on-1.54.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b11bfee99bb11eea344de6e4a07fe89212c55c02">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/2/bcpkix-jdk15on-1.54_7014987cd7cca79d5001a0359ba6a6779f44efed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_69b028994c1e25e4fd7118d2092dfdbfc4c51814/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/admin/project/RunCloud-master/runCloud/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_2916f05509b27bdd4a9011448d1befa7add8e924/classes.dex" />
+    </item>
+
+</items>

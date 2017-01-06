@@ -1,0 +1,638 @@
+[
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_middle_auther_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_middle_auther_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/jpush_notification_icon.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/jpush_notification_icon.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_1.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/progress_1.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/point_normal.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/point_normal.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_tengxun2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_tengxun2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/page_indicator_focused.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/page_indicator_focused.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_middle_negative_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_middle_negative_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/add_attention2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/add_attention2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sina2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/sina2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_3.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/progress_3.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/error.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/error.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/label_publicfeelings_selected_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/label_publicfeelings_selected_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cherry_pic.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/cherry_pic.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/edit_normal2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/edit_normal2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_facebook_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_facebook_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_wangyi2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_wangyi2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/label_setting_selected_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/label_setting_selected_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/nav_settings.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/nav_settings.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/strawberry_pic.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/strawberry_pic.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/RunCloud-master/swipeMenuListView/unspecified/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/pear_pic.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/pear_pic.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mango_pic.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/mango_pic.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/twitter2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/twitter2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/facebook_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/facebook_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_find_frd_pressed.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/tab_find_frd_pressed.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/label_oversea_original_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/label_oversea_original_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_pc2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_pc2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_bg2.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/tab_bg2.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/pineapple_pic.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/pineapple_pic.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/weixin2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/weixin2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/start_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/start_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_middle_neutral_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_middle_neutral_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/b1.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/b1.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/nav_message.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/nav_message.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_settings_normal.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/tab_settings_normal.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_richpush_actionbar_divider.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/reset_password2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/reset_password2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/first_down_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/first_down_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/about2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/about2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_address_normal.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/tab_address_normal.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_middle_hit_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_middle_hit_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/orange_pic.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/orange_pic.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/first_add_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/first_add_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_settings_pressed.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/tab_settings_pressed.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_5.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/progress_5.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_fenghuang2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_fenghuang2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_8.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/progress_8.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/login2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/login2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/down_arrow_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/down_arrow_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/grape_pic.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/grape_pic.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/nav_note.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/nav_note.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_2.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/progress_2.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/label_setting_original_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/label_setting_original_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_middle_from_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_middle_from_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_ok_normal.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/btn_ok_normal.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_sina_news_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_sina_news_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/runlogo_2.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/runlogo_2.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/label_weixin_original_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/label_weixin_original_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_sina_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_sina_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/land_password_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/land_password_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_weixin_pressed.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/tab_weixin_pressed.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_mobile2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_mobile2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/p3.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/p3.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/watermelon_pic.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/watermelon_pic.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/page_indicator_unfocused.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/page_indicator_unfocused.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_calendar2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/icon_calendar2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/delete_sure_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/delete_sure_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exit2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/exit2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/land_validate_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/land_validate_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/msp_edit_warning.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/msp_edit_warning.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_7.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/progress_7.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_middle_positive_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_middle_positive_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/label_weixin_selected_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/label_weixin_selected_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/my_intent2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/my_intent2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_ok_pressed.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/btn_ok_pressed.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_sohu2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_sohu2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/close.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/close.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo_200_200.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/logo_200_200.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/background2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/background2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/delete_normal2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/delete_normal2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/home_middle_reply_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/home_middle_reply_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_6.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/progress_6.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/edit_attention2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/edit_attention2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_address_pressed.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/tab_address_pressed.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/point_select.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/point_select.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/p4.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/p4.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_weixin_normal.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/tab_weixin_normal.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_topback.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/btn_topback.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_4.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/progress_4.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/label_publicfeelings_original_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/label_publicfeelings_original_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/arrow_right.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/label_netpeople_selected_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/label_netpeople_selected_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_richpush_actionbar_back.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/back.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/first_search_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/first_search_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/delete_attention2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/delete_attention2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/twit2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/twit2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/user_pic.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/user_pic.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/people_setting2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/people_setting2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/land_user_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/land_user_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/label_oversea_selected_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/label_oversea_selected_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/label_netpeople_original_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/label_netpeople_original_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/b2.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/b2.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/setting_background2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/setting_background2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/histogram_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/histogram_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/nav_star.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/nav_star.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/pie_graph_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/pie_graph_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/add_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/add_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_find_frd_normal.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/tab_find_frd_normal.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/search_page_2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/search_page_2x.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-xhdpi-v4/clean2x.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-xhdpi/clean2x.png"
+    }
+]

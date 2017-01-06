@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RunCloud-master.iml" filepath="$PROJECT_DIR$/RunCloud-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runCloud/runCloud.iml" filepath="$PROJECT_DIR$/runCloud/runCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segmentViewmaster/segmentViewmaster.iml" filepath="$PROJECT_DIR$/segmentViewmaster/segmentViewmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipeMenuListView/swipeMenuListView.iml" filepath="$PROJECT_DIR$/swipeMenuListView/swipeMenuListView.iml" />
+    </modules>
+  </component>
+</project>

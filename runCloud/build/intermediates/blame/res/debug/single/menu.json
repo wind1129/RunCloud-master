@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/menu/nav_menu.xml",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/menu/nav_menu.xml"
+    }
+]

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.runcloud.view.SildingFinishLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sildingFinishLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:fitsSystemWindows="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/background2x">
+
+            <ImageButton
+                android:id="@+id/about_setting_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/back"
+                android:background="#00000000"
+                android:layout_centerVertical="true" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:src="@drawable/logo_200_200"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:text="锐云舆情"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:text="版本:1.0"
+            android:textColor="#000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:id="@+id/about_text"
+            android:textColor="#000000"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="关于产品:\n\n\t\t\t\t锐云舆情监测分析产品通过行业内领先的互联网海量数据采集技术、文本处理技术和数据挖掘技术，全天候7*24小时对境内外网页、新闻、微博、微信、移动APP、博客和论坛进行监测，产品具有发现、分析、预警和报告等特色功能，为您全面掌握互联网舆情动态提供及时、全面、准确地服务。\n\n\t\t\t\t本产品Android版在具备移动网络或WIFI网络的情况下，可以通过移动端自由灵活的获得最新舆情信息，满足工作人员出差等移动办公的需要。产品以方便用户对舆情信息进行浏览为核心业务员，整合了舆情监测、微博监测、微信监测、超级搜索、预警提示等功能" />
+
+        <TextView
+            android:textColor="#000000"
+            android:text="客服电话：4008100868"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="100dp" />
+    </LinearLayout>
+</com.example.runcloud.view.SildingFinishLayout>

@@ -1,0 +1,85 @@
+[
+    {
+        "outputFile": "/Users/admin/project/RunCloud-master/segmentViewmaster/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/admin/project/RunCloud-master/segmentViewmaster/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 63,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "/Users/admin/project/RunCloud-master/segmentViewmaster/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 63,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endColumn": 52,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "/Users/admin/project/RunCloud-master/segmentViewmaster/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 52,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "/Users/admin/project/RunCloud-master/segmentViewmaster/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 663
+                    }
+                }
+            }
+        ]
+    }
+]

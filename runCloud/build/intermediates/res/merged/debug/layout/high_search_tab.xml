@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/layout_bottom_style"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_weight="1"
+                android:gravity="right|center_vertical"
+                android:text="关键字："
+                android:textSize="11sp" />
+
+            <EditText
+                android:id="@+id/highSearch_keywords"
+                android:inputType="text"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="40dp"
+                android:layout_weight="3"
+                android:background="@drawable/background_edittext_chat"
+                android:paddingEnd="5dp"
+                android:paddingLeft="5dp"
+                android:paddingStart="5dp"
+                android:singleLine="true"
+                android:gravity="center_vertical"
+                android:hint="请输入关键字(不超过10个字符)"
+                android:textSize="11sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/layout_bottom_style"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_weight="1"
+                android:gravity="right|center_vertical"
+                android:text="网站名称："
+                android:textSize="11sp" />
+
+            <EditText
+                android:id="@+id/highSearch_siteName"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="40dp"
+                android:layout_weight="3"
+                android:hint="请输入网站名称(不超过10个字符)"
+                android:textSize="11sp"
+                android:background="@drawable/background_edittext_chat"
+                android:inputType="text"
+                android:paddingEnd="5dp"
+                android:paddingLeft="5dp"
+                android:paddingStart="5dp"
+                android:singleLine="true"
+                android:maxLength="20" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/layout_bottom_style"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_weight="1"
+                android:gravity="right|center_vertical"
+                android:text="频道名称："
+                android:textSize="11sp" />
+
+            <EditText
+                android:id="@+id/highSearch_channelName"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="40dp"
+                android:layout_weight="3"
+                android:hint="请输入频道名称(不超过10个字符)"
+                android:textSize="11sp"
+                android:background="@drawable/background_edittext_chat"
+                android:inputType="text"
+                android:paddingEnd="5dp"
+                android:paddingLeft="5dp"
+                android:paddingStart="5dp"
+                android:singleLine="true"
+                android:maxLength="20" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/layout_bottom_style"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_weight="1"
+                android:gravity="right|center_vertical"
+                android:text="发帖人："
+                android:textSize="11sp" />
+
+            <EditText
+                android:id="@+id/highSearch_author"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="40dp"
+                android:layout_weight="3"
+                android:hint="请输入发帖人(不超过10个字符)"
+                android:gravity="center_vertical"
+                android:textSize="11sp"
+                android:background="@drawable/background_edittext_chat"
+                android:inputType="text"
+                android:paddingEnd="5dp"
+                android:paddingLeft="5dp"
+                android:paddingStart="5dp"
+                android:singleLine="true"
+                android:maxLength="20" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/layout_bottom_style"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_weight="1"
+                android:gravity="right|center_vertical"
+                android:text="发帖时间："
+                android:textSize="11sp" />
+
+            <EditText
+                android:id="@+id/highSearch_publishTime"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="40dp"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:layout_weight="3"
+                android:hint="2012-01-15"
+                android:textSize="11sp"
+                android:background="@drawable/background_edittext_chat"
+                android:inputType="text"
+                android:paddingEnd="5dp"
+                android:paddingLeft="5dp"
+                android:paddingStart="5dp"
+                android:singleLine="true"
+                android:maxLength="20" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/layout_bottom_style"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="0dp"
+                android:layout_weight="1"
+                android:gravity="right|center_vertical"
+                android:text="结束时间："
+                android:textSize="11sp" />
+
+            <EditText
+                android:id="@+id/highSearch_endTime"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:layout_marginRight="40dp"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:layout_weight="3"
+                android:hint="2016-01-15"
+                android:textSize="11sp"
+                android:background="@drawable/background_edittext_chat"
+                android:inputType="text"
+                android:paddingEnd="5dp"
+                android:paddingLeft="5dp"
+                android:paddingStart="5dp"
+                android:singleLine="true"
+                android:maxLength="20" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/layout_bottom_style"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="0dp"
+                android:layout_weight="1"
+                android:gravity="right|center_vertical"
+                android:text="本地相关："
+                android:textSize="11sp" />
+
+            <RadioGroup
+                android:id="@+id/local_RadioGroup"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:layout_marginRight="25dp"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/local_RadioButton_sure"
+                    android:layout_marginLeft="20dp"
+                    android:scaleX="0.7"
+                    android:scaleY="0.7"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content" />
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="是" />
+
+                <RadioButton
+                    android:id="@+id/local_RadioButton_false"
+                    android:layout_marginLeft="30dp"
+                    android:scaleX="0.7"
+                    android:scaleY="0.7"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content" />
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="否" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/layout_bottom_style"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="0dp"
+                android:layout_weight="1"
+                android:gravity="right|center_vertical"
+                android:text="只看主贴："
+                android:textSize="11sp" />
+
+            <RadioGroup
+                android:id="@+id/mainText_RadioGroup"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:layout_marginRight="25dp"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/mainText_RadioButton_sure"
+                    android:layout_marginLeft="20dp"
+                    android:scaleX="0.7"
+                    android:scaleY="0.7"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content" />
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="是" />
+
+                <RadioButton
+                    android:id="@+id/mainText_RadioButton_false"
+                    android:layout_marginLeft="30dp"
+                    android:scaleX="0.7"
+                    android:scaleY="0.7"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content" />
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="否" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/layout_bottom_style"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="0dp"
+                android:layout_weight="1"
+                android:gravity="right|center_vertical"
+                android:text="过滤垃圾："
+                android:textSize="11sp" />
+
+            <RadioGroup
+                android:id="@+id/filterGarbage_RadioGroup"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:layout_marginRight="25dp"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/filterGarbage_RadioButton_sure"
+                    android:layout_marginLeft="20dp"
+                    android:scaleX="0.7"
+                    android:scaleY="0.7"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content" />
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="是" />
+
+                <RadioButton
+                    android:id="@+id/filterGarbage_RadioButton_false"
+                    android:layout_marginLeft="30dp"
+                    android:scaleX="0.7"
+                    android:scaleY="0.7"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content" />
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="否" />
+            </RadioGroup>
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/click_high_search"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/btn_ok_bg">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="点击搜索"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

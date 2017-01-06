@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-mdpi/segment_radio_white_right_press.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-mdpi/segment_radio_white_right_press.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-mdpi/segment_radio_white_left.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-mdpi/segment_radio_white_left.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-mdpi/segment_radio_white_right.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-mdpi/segment_radio_white_right.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-mdpi/segment_radio_grey_right.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-mdpi/segment_radio_grey_right.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-mdpi/segment_radio_white_right_focus.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-mdpi/segment_radio_white_right_focus.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-mdpi/segment_radio_grey_left_focus.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-mdpi/segment_radio_grey_left_focus.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-mdpi/segment_radio_white_left_focus.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-mdpi/segment_radio_white_left_focus.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-mdpi/segment_radio_grey_left.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-mdpi/segment_radio_grey_left.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-mdpi/segment_radio_grey_right_press.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-mdpi/segment_radio_grey_right_press.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-mdpi/segment_radio_grey_right_focus.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-mdpi/segment_radio_grey_right_focus.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-mdpi/segment_radio_grey_left_press.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-mdpi/segment_radio_grey_left_press.9.png"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/runCloud/build/intermediates/res/merged/debug/drawable-mdpi/segment_radio_white_left_press.9.png",
+        "source": "/Users/admin/project/RunCloud-master/runCloud/src/main/res/drawable-mdpi/segment_radio_white_left_press.9.png"
+    }
+]

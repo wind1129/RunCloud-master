@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="224dp"
+                android:layout_marginBottom="8dp">
+
+    <com.example.runcloud.view.RollViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+    <com.example.runcloud.view.CirclePageIndicator
+        xmlns:CirclePageIndicator="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        CirclePageIndicator:fillColor="#ffffffff"
+        CirclePageIndicator:pageColor="#9f888888"
+        CirclePageIndicator:strokeWidth="0dp"/>
+
+</RelativeLayout>

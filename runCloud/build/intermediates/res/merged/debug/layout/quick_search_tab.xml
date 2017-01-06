@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/quick_search_relative"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="100dp">
+
+            <EditText
+                android:id="@+id/quick_search_context"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:background="@drawable/background_edittext_chat"
+                android:gravity="center_vertical"
+                android:hint="请输入搜索关键词"
+                android:inputType="text"
+                android:maxLength="25"
+                android:paddingEnd="5dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="24dp"
+                android:paddingStart="5dp"
+                android:singleLine="true"
+                android:textSize="15sp" />
+
+            <ImageView
+                android:id="@+id/quick_search_go"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/quick_search_context"
+                android:layout_alignRight="@id/quick_search_context"
+                android:layout_alignTop="@id/quick_search_context"
+                android:layout_centerVertical="true"
+                android:scaleX="0.7"
+                android:scaleY="0.7"
+                android:clickable="true"
+                android:focusable="true"
+                android:src="@drawable/search_page_2x" />
+        </RelativeLayout>
+
+        <com.example.runcloud.view.XCFlowLayout
+            android:id="@+id/flowlayout"
+            android:layout_below="@id/quick_search_relative"
+            android:layout_marginTop="35dp"
+            android:layout_centerHorizontal="true"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content">
+
+        </com.example.runcloud.view.XCFlowLayout>
+
+        <RelativeLayout
+            android:id="@+id/click_quick_search"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="0dp"
+            android:background="@drawable/btn_ok_bg">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="点击搜索"
+                android:textColor="#FFFFFF"
+                android:textSize="15sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

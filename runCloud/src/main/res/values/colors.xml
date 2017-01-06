@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3A539C</color>
+    <color name="colorPrimaryDark">#27408B</color>
+    <color name="colorAccent">#B0E2FF</color>
+    <color name="halfer_transparent">#66000000</color>
+    <color name="dark_transparent">#ba000000</color>
+    <color name="lighter_gray">#ddd</color>
+    <color name="line_gray">#ccc</color>
+    <color name="darker_gray">#aaa</color>
+    <color name="pink">#F06292</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="list_focus_color">#C6E2FF</color>
+    <color name="list_normal_color">#FFFFFF</color>
+
+    <color name="btn_ok_normal_color">#458B00</color>
+    <color name="btn_ok_focus_color">#006400</color>
+
+    <color name="account_delete_normal_color">#FF7256</color>
+    <color name="account_delete_focus_color">#FF3030</color>
+
+    <color name="common_title">#F9F9F9</color>
+    <color name="blue">#499BF7</color>
+    <color name="whites">#ffffff</color>
+    <color name="gray_font">#000000</color>
+    <color name="yellow_warning">#FFDEAD</color>
+
+    <!--pure color-->
+    <color name="black">#ff000000</color>
+
+</resources>

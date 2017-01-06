@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal">
+
+    <include
+        android:id="@+id/actionbarToolbar"
+        layout="@layout/layout_actionbar_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/et_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:gravity="top|left"
+        android:background="@drawable/background_edittext_chat"
+        android:inputType="textMultiLine"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:paddingEnd="8dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingStart="8dp"
+        android:lineSpacingExtra="4dp"
+        android:textSize="13sp" />
+
+
+    <Button
+        android:id="@+id/btn_feedback"
+        android:background="@drawable/main_btn_ok_bg"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:text="反馈"
+        android:textSize="15sp"
+        android:textColor="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp" />
+
+
+</LinearLayout>

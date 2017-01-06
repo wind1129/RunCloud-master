@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ly_main_weixin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fcfcfc"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_height="26dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:background="#A4D3EE">
+
+        <RelativeLayout
+            android:id="@+id/query_time"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/layout_right_style"
+            android:clickable="true"
+            android:focusable="true">
+
+            <TextView
+
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="时间"
+                android:textColor="#FFFFFF"
+                android:layout_centerInParent="true" />
+
+            <ImageView
+                android:src="@drawable/down_arrow_2x"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/source_from"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/layout_right_style"
+            android:clickable="true"
+            android:focusable="true">
+
+            <TextView
+
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="微信分类"
+                android:textColor="#FFFFFF"
+                android:layout_centerInParent="true" />
+
+            <ImageView
+                android:src="@drawable/down_arrow_2x"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/query_emotion"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:focusable="true">
+
+            <TextView
+
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="倾向性"
+                android:textColor="#FFFFFF"
+                android:layout_centerInParent="true" />
+
+            <ImageView
+                android:src="@drawable/down_arrow_2x"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <include layout="@layout/layout_netbar" />
+
+    <android.support.v4.widget.SwipeRefreshLayout android:id="@+id/swipe_refresh"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#E6E6FA">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="vertical"
+            tools:listitem="@layout/news_list" />
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+</LinearLayout>

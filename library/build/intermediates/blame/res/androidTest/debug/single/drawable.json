@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/admin/project/RunCloud-master/library/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/admin/project/RunCloud-master/library/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/library/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/admin/project/RunCloud-master/library/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml"
+    }
+]

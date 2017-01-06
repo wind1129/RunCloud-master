@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/admin/project/RunCloud-master/segmentViewmaster/build/intermediates/res/merged/androidTest/debug/drawable/button_text_color.xml",
+        "source": "/Users/admin/project/RunCloud-master/segmentViewmaster/build/intermediates/bundles/debug/res/drawable/button_text_color.xml"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/segmentViewmaster/build/intermediates/res/merged/androidTest/debug/drawable/segment_shape.xml",
+        "source": "/Users/admin/project/RunCloud-master/segmentViewmaster/build/intermediates/bundles/debug/res/drawable/segment_shape.xml"
+    },
+    {
+        "merged": "/Users/admin/project/RunCloud-master/segmentViewmaster/build/intermediates/res/merged/androidTest/debug/drawable/radio_shape.xml",
+        "source": "/Users/admin/project/RunCloud-master/segmentViewmaster/build/intermediates/bundles/debug/res/drawable/radio_shape.xml"
+    }
+]
